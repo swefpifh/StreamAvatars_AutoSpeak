@@ -17,7 +17,7 @@
 >- Choose the desired number to display the message in the avatar bubble as many times as desired.
 
 ### myAvatarBubbleTextInterval
->- Choose the minimum and maximum number (in seconds) to generate a random number. By default, the chosen number will be between 60 and 70. The first loop may activate the message at 62s, the second at 67s, etc...
+>- Choose the minimum and maximum number (in seconds) to generate a random number. By default, the chosen number will be between 60 and 70. The first loop may activate the message at 62s, the second maybe at 67s, etc...
 
 ### myAvatarBubbleText
 >- This is the text that will be displayed in the bubble of the chosen character in "*myAvatarBubbleUsername*". You can enter several messages and one of them will be selected randomly each time the command used to launch the script is activated.
