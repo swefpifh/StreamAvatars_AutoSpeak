@@ -7,7 +7,7 @@ return function()
 	local maBubbleTextLoop = data.myAvatarBubbleTextLoop
 	
 	local maBubbleTextInterval = math.random(data.myAvatarBubbleTextInterval.Min, data.myAvatarBubbleTextInterval.Max)
-	local maAvatar = getUser(data.myAvatarUsername)
+	local maAvatar = getUser(data.myAvatarBubbleUsername)
 		
 	if maBubbleTextActivated == true then
 		if maBubbleTextInfinite == true then
