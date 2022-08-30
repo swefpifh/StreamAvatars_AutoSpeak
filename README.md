@@ -1,6 +1,6 @@
 # Stream Avatars - Auto Speaking for Avatar's Bubble
 ##### :speech_balloon: Script for *Stream Avatars* by swefpifh#0026
-A small script to make your avatar speak during the live show. Only in the speech bubble and not in the Twitch chat.
+:scroll: A small script to make your avatar speak during the live show. Only in the speech bubble and not in the Twitch chat.
 
 ### myAvatarBubbleTextActivated
 >- **true** 🠚 Activate the script. (*Default*)
