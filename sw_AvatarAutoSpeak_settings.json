@@ -1,0 +1,16 @@
+{
+"myAvatarBubbleTextActivated": true,
+
+"myAvatarUsername": "swefpifh",
+
+"myAvatarBubbleTextInfinite": true,
+"myAvatarBubbleTextLoop": 5,
+"myAvatarBubbleTextInterval": { "Min": 10, "Max": 15 },
+"myAvatarBubbleText": [
+	"Yout text 1",	
+	"Yout text 2",	
+	"Yout text 3",	
+	"Yout text 4",	
+	"Yout text 5"
+	]
+}
