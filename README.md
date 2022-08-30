@@ -3,16 +3,15 @@
 The purpose of this script is to allow the configurable appearance of stars to be retrieved.
 
 ### myAvatarBubbleTextActivated
->- **true** 🠚 Activate the sound effect for the launch of the command.
->- **false** 🠚 Deactivate the sound effect for the launch of the command. (*Default*)
+>- **true** 🠚 Activate the script. (*Default*)
+>- **false** 🠚 Deactivate the script.
 
 ### myAvatarBubbleUsername
 >- Allows a sound to be played when "*starsEventSoundActivated*" is "*True*". The sound must be added to the "**Sounds**" category of **Stream Avatars**. Then enter the name of the title in inverted commas.
 
 ### myAvatarBubbleTextInfinite
->- **0** 🠚 No message will be displayed in the Twitch chat.
->- **1** 🠚 The message notified in "*starsEventChatText*" will be written in italics and displayed in the Twitch chat. (*Default*)
->- **2** 🠚 The message notified in "*starsEventChatText*" will be written in announcement mode and will be sent in the Twitch chat. ⚠ **On Android devices, the announcement and the text will not be displayed**.
+>- **true** 🠚 Activate the infinite loop and deactivate the simple loop *myAvatarBubbleTextLoop*.
+>- **false** 🠚 Deactivate the infinite loop and activate the simple loop *myAvatarBubbleTextLoop*. (*Default*)
 
 ### myAvatarBubbleTextLoop
 >- This is the message that will be displayed in the Twitch chat when the command is executed. You can enter several messages and one of them will be selected randomly each time the command used to launch the script is activated.
