@@ -1,6 +1,6 @@
 # Stream Avatars - Auto Speaking for Avatar's Bubble
 ##### :speech_balloon: Script for *Stream Avatars* by swefpifh#0026
-The purpose of this script is to allow the configurable appearance of stars to be retrieved.
+A small script to make your avatar speak during the live show. Only in the speech bubble and not in the Twitch chat.
 
 ### myAvatarBubbleTextActivated
 >- **true** 🠚 Activate the script. (*Default*)
